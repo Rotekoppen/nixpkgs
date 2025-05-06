@@ -19,7 +19,7 @@ let
         stable = "0.0.342";
         ptb = "0.0.167";
         canary = "0.0.729";
-        development = "0.0.85";
+        development = "0.0.85"; #AAAAAAAAAAAAAA
       };
   version = versions.${branch};
   srcs = rec {
